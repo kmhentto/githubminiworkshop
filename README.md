@@ -1,2 +1,2 @@
 # githubminiworkshop
-This project was created to allow student practice branch - commit and creating a PR
+This project was created to allow student practice branching, committing and creating a PR
