@@ -6,5 +6,7 @@ print("Petrismi editoi tätä")
 print("ja tätä")
 print("Satu editoi GitHubissa simppelisti")
 
+print("miukumauku Maria harjoittelee..") # Maria M kokeilee
+
 
 print("Jami poisti main.py")
