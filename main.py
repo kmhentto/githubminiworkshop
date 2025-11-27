@@ -2,8 +2,7 @@
 print("Katja editoi GitHubissa simppelisti")
 print("Katja editoi Codespaces -ympäristössä")
 print("Kissa KAS00144 lisäsi tämän pätkän")
-
-
 print("Petrismi editoi tätä")
 print("ja tätä")
+print("Satu editoi GitHubissa simppelisti")
 
