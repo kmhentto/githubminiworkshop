@@ -6,3 +6,5 @@ print("Petrismi editoi tätä")
 print("ja tätä")
 print("Satu editoi GitHubissa simppelisti")
 
+
+print("Jami poisti main.py")
