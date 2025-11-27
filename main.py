@@ -5,4 +5,4 @@ print("Kissa KAS00144 lisäsi tämän pätkän")
 print("Petrismi editoi tätä")
 print("ja tätä")
 print("Satu editoi GitHubissa simppelisti")
-
+print("Petri teki tämän visual studio codessa")
