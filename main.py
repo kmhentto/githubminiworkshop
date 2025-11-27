@@ -8,3 +8,16 @@ print("Satu editoi GitHubissa simppelisti")
 
 
 print("Jami poisti main.py")
+
+
+
+
+
+
+
+
+
+
+
+sana = input("Anna sana: ") 
+print(sana)
