@@ -8,4 +8,14 @@ print("Satu editoi GitHubissa simppelisti")
 
 
 print("Jami poisti main.py")
+
+
+
+
+
+
+
+
 print("Kissa kävi myös Codespacessa")
+sana = input("Anna sana: ") 
+print(sana)
