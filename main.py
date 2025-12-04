@@ -14,3 +14,5 @@ print("Kissa kävi myös Codespacessa")
 sana = input("Anna sana: ") 
 print(sana)
 
+def katjanfunkio:
+ print("Katja testaa!")
