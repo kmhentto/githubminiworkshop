@@ -1,5 +1,5 @@
 # tee oma haara, sen jälkeen lisää nimesi printtaus alla olevaan tapaan, kommitoi muutokset ja luo uusi PR
-
+## lisää kommentti
 print("Katja editoi GitHubissa simppelisti!!!")
 print("Katja editoi Codespaces -ympäristössä")
 print("Felipe!")
@@ -14,5 +14,3 @@ print("Kissa kävi myös Codespacessa")
 sana = input("Anna sana: ") 
 print(sana)
 
-def katjanfunkio:
- print("Katja testaa!")
