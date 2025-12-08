@@ -15,6 +15,6 @@ sana = input("Anna sana: ")
 print(sana)
 # kommentti
 # lölsölds
-    
+print("opiskelija")    
     
 
